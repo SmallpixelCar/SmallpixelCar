@@ -1,5 +1,4 @@
 # SmallpixelCar
-Building small autonomous racing robocar. 
 
 In this repo I have uploaded the data debug and visualization tool. It works on Windows only. I will upload some data to play inside this tool. 
 
